@@ -37,7 +37,7 @@ export const CONSTANTS: Constants = {
       address: ["KT1EY6XHM8ycpozauAjCqTqVrnyZLo2b1fUv", "KT1PVJP2FbSZrXgKWdhXguMV1HmfrX4dH7o5"],
       thumbnailUrl: "../../../assets/img/alias/versum.png",
       discoverUrl: "../../../assets/img/alias/versum.svg",
-      link: "https://versum.xyz", shouldDisplayLink: DisplayLinkOption.All, backgroundColor: 'black', category: ["marketplace"],
+      link: "https://dev.versum.xyz", shouldDisplayLink: DisplayLinkOption.All, backgroundColor: 'black', category: ["marketplace"],
       description: "NFT Marketplace focused on organic content and curation.",
     },
   },
